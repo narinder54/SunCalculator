@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4a8a4e6562fd563baccf8ee9878d5cb6570b48ed">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1e12c68b775bd8ac61e0e9b6e3e4896ad7cf6857\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4a8521340aea1120bb543df65a2bdb6a3363317b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6933a468b4a6c50937ac8a067fb98fea1d6578cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bda828627ec002847c0124fe20f7ad078a6dfad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_38c02789a34086b2737d67c6cdc860eb81473e18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1d2496ce025ea5b24c9c9983af22966fbaa7fdf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b38dcf365b615f58bfec61dca421d35c4ee00a8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_996734b0813d4513221fdb375979876a2a1ea109\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fb0cacf7b27dec1a03e8798800420583d4c2c811\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_75427331efae22aaf684f6d0488e9028cf69ba6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c2037832039a20d6c6c141c4250719b4cda11677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_0c2fd43ea3faa15096a59029fd57986a09df97e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\3.1.36\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7421dcb3ed9db47a59ec618e2398f0df65c2d480">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-3.1.36_232fcf5ed2e59d4f6e36e8771f419341a745cf31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_7db223d0fa115559805d98a420e9e89de2597aa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_2ab3816f2b1719f147b4a1b7957a393390554f31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9e90bfb9385d7453880e7c9969a95560318680e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dcdd6f147da94c41f6630300e2b4b1fb179da079">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_105b17834bb087323551d5de1018c8bf59289133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_55018ccfaebae50d546534a3e2c74af672933474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_576a29bd7105ca92ad632250e3a5320b211e6450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_4064993def2bdc5c342abac911d9e38ef44e86f7\classes.dex" />
+    </item>
+
+</items>

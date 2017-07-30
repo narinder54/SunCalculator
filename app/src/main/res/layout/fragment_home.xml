@@ -1,0 +1,57 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="swindroid.suntime.ui.HomeFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+            <TextView android:text="Melbourne, AU" android:id="@+id/locationTV"
+                android:textSize="36sp"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+            <Button
+                android:text="Add New"
+                android:layout_width="144dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/add_loc" />
+
+            <TableLayout android:id="@+id/TableLayout01" android:layout_width="fill_parent" android:layout_height="wrap_content"
+                android:stretchColumns="0,1" android:gravity="center" android:padding="5sp">
+                <TableRow android:id="@+id/TableRow01" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:padding="2sp" android:gravity="center" android:textColor="#ffd700"
+                        android:textSize="24sp" android:text="Sun Rise" android:layout_height="wrap_content" android:layout_width="wrap_content"></TextView>
+                    <TextView android:padding="2sp" android:gravity="center" android:textColor="#ff8400"
+                        android:textSize="24sp" android:text="Sun Set" android:layout_height="wrap_content" android:layout_width="wrap_content"></TextView>
+                </TableRow>
+
+                <TableRow android:id="@+id/TableRow02" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:padding="2sp" android:textSize="48sp" android:text="00:00" android:textColor="#ffd700" android:gravity="center" android:layout_height="wrap_content" android:id="@+id/sunriseTimeTV" android:layout_width="wrap_content"></TextView>
+                    <TextView android:padding="2sp" android:textSize="48sp" android:text="00:00" android:textColor="#ff8400" android:gravity="center" android:layout_height="wrap_content" android:id="@+id/sunsetTimeTV" android:layout_width="wrap_content"></TextView>
+                </TableRow>
+
+
+
+            </TableLayout>
+
+
+
+            <ImageView android:id="@+id/ImageView01" android:layout_width="match_parent"
+                android:src="@drawable/sunpic"
+                android:padding="10dp" android:layout_height="107dp">
+            </ImageView>
+            <DatePicker android:id="@+id/datePicker" android:layout_width="fill_parent" android:padding="5sp" android:gravity="center"
+                android:layout_height="wrap_content">
+            </DatePicker>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>

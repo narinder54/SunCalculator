@@ -1,0 +1,7 @@
+#Sun Jul 30 13:38:56 AEST 2017
+base.0=C\:\\Users\\sandhu\\Documents\\sdma\\assignment\\Assignment8\\SunCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1e12c68b775bd8ac61e0e9b6e3e4896ad7cf6857
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sandhu\\Documents\\sdma\\assignment\\Assignment8\\SunCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_105b17834bb087323551d5de1018c8bf59289133\\classes.dex
+base.1=C\:\\Users\\sandhu\\Documents\\sdma\\assignment\\Assignment8\\SunCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_105b17834bb087323551d5de1018c8bf59289133
+file.0=C\:\\Users\\sandhu\\Documents\\sdma\\assignment\\Assignment8\\SunCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1e12c68b775bd8ac61e0e9b6e3e4896ad7cf6857\\classes.dex

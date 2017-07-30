@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="9521427585846"
+    token="8571068171311478939"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="11150" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3302" />
+    <task
+        name="verifier"
+        duration="964" />
+
+    <artifact
+        location="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="9521427585846"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\sandhu\Documents\sdma\assignment\Assignment8\SunCalculator\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
